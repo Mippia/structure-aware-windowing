@@ -11,7 +11,8 @@ This project compares three segmentation approaches:
 - **Method 2**: Fixed 5-second segments 
 - **Method 3**: Structure-aware 2-bar segments based on BPM and musical structure
 
-![Segmentation Methods](CSI.png)
+<img src="CSI.png" width="600" alt="Segmentation Methods">
+
 *Figure: Comparison of segmentation methods*
 
 
