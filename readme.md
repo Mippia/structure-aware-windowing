@@ -15,7 +15,7 @@ The study demonstrates that structure-aware preprocessing can achieve competitiv
 
 **Environment:**
 ```
-conda create -n music_classification python=3.8
+conda create -n music_classification python=3.9
 conda activate music_classification
 ```
 
@@ -27,7 +27,6 @@ conda activate music_classification
 pip install -r requirements.txt
 ```
 
-**Note:** Installation may be complicated, especially for Natten and all-in-one dependencies.
 
 ## Data Preparation
 ```
