@@ -11,6 +11,11 @@ This project compares three segmentation approaches:
 - **Method 2**: Fixed 5-second segments 
 - **Method 3**: Structure-aware 2-bar segments based on BPM and musical structure
 
+![Segmentation Methods](CSI.pdf)
+*Figure: Comparison of segmentation methods - 30-second window, fixed 5-second segments, and structure-aware 2-bar segments with downbeat patterns.*
+
+
+
 The study demonstrates that structure-aware preprocessing can achieve competitive performance while providing musically meaningful analysis units.
 
 ## Setup
