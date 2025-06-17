@@ -1,5 +1,7 @@
 # FROM FIXED WINDOWS TO MUSICAL BARS: STRUCTURE-AWARE PREPROCESSING IN MIR
 
+Paper Link : TBD
+
 Seonghyeon Go, Yumin Kim., A comparative study of temporal segmentation methods for music information retrieval (MIR), investigating the impact of musically-informed preprocessing on genre classification performance.
 
 ## Overview
