@@ -13,7 +13,6 @@ This project compares three segmentation approaches:
 
 <img src="CSI.png" width="600" alt="Segmentation Methods">
 
-*Figure: Comparison of segmentation methods*
 
 
 The study demonstrates that structure-aware preprocessing can achieve competitive performance while providing musically meaningful analysis units.
