@@ -21,7 +21,7 @@ The study demonstrates that structure-aware preprocessing can achieve competitiv
 
 **Environment:**
 ```
-conda create -n music_classification python=3.9
+conda create -n music_classification python=3.10
 conda activate music_classification
 ```
 
@@ -29,6 +29,11 @@ conda activate music_classification
 ```
 # Install Natten (required)
 # Follow: https://github.com/mir-aidj/all-in-one
+# manual madmom install, pip install git+https://github.com/CPJKU/madmom. 
+# Because of Natten and all-in-one deprecation, carefully follow https://github.com/mir-aidj/all-in-one/pull/27.
+
+we recommend to install Natten 0.17.5, and
+pip install git+https://github.com/govi218/all-in-one.git@gov/update-deprecated.
 
 pip install -r requirements.txt
 ```
