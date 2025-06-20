@@ -77,5 +77,5 @@ python train.py --method method3_2bar --feature audio --model mert --epochs 50
 **Models:** simple_cnn, mert  
 **Args:** --epochs, --batch_size, --learning_rate
 
-**Note:** ConvNeXt training failed due to slow convergence with pretrained=False.
+**Note:** ConvNeXt training failed due to slow convergence with pretrained=False. Actually, ConvNeXt model may work well if more training times are given or task is harder!
 
